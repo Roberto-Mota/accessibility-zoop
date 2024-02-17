@@ -6,7 +6,7 @@ A Zoop é um e-commerce de varejo que vende de tudo! Atualmente em fase de desen
 
 ![GIF da aplicação em execução](zoop-gif.gif)
 
-## 🔨 Funcionalidades do projeto
+## Funcionalidades do projeto 🔨
 
 Neste estágio inicial de desenvolvimento, a Zoop possui as seguintes funcionalidades:
 
@@ -31,7 +31,7 @@ O projeto Zoop utiliza as seguintes tecnologias e bibliotecas:
 
 E muito mais...
 
-## 🛠️ Abrir e rodar o projeto
+## Abrir e rodar o projeto 🛠️
 
 Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
 
@@ -59,12 +59,16 @@ npm install
 npm run dev
 ```
 
-## 📚 Mais informações do curso
+## Mais informações do curso 📚
 
 Gostou do projeto e quer conhecer mais? 
 
 O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/1KuCFIRKOIZVrb0f6nLbVw/React-Acessibilidade?node-id=59%3A852&mode=dev).
 
 Aproveite o desenvolvimento e aprimoramento da Zoop!
+
+## Padronização WAI-ARIA 🧏
+
+https://www.w3.org/WAI/ARIA/apg/patterns/
 
 # accessibility-zoop
