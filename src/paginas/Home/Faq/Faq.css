@@ -6,4 +6,5 @@
   align-items: center;
   gap: 40px;
   align-self: stretch;
+  min-width: 1200px;
 }
